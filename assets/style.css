@@ -1,0 +1,14 @@
+a{
+  color:white;
+}
+#nameplate,#title{
+  text-align:center;
+}
+
+.bg-gray{
+  background-color: lightgray;
+}
+
+#section2{
+  padding-top:15px;
+}
